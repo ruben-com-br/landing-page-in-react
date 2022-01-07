@@ -1,4 +1,4 @@
-Pagina landing page HTML CSS
+##Pagina landing page HTML CSS
 
 https://github.com/rubengyn/LANDING-PAGE-COM-HTML-e-CSS-
 
@@ -8,7 +8,7 @@ https://youtu.be/llF6vD-RljE
 
 
 
-Pagina em React
+##Pagina em React
 
 https://landing-in-react.netlify.app/
 
