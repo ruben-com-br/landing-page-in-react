@@ -1,3 +1,7 @@
+Pagina landing page
+https://github.com/rubengyn/LANDING-PAGE-COM-HTML-e-CSS-
+
+
 # 1 criar projeto
 npx create-react-app landing-page-react 
 
