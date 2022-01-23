@@ -13,6 +13,8 @@ https://youtu.be/llF6vD-RljE
 https://landing-in-react.netlify.app/
 
 
+![plot](./print.jpg)
+
 # 1 criar projeto
 npx create-react-app landing-page-react 
 
